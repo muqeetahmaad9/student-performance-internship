@@ -1,63 +1,52 @@
-# student-performance-internship
-Internship Tasks - Student Performance Analysis using ML
+<p align="center">
+  <img width="100%" src="assets/banner.svg" alt="Student Performance Analysis" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2600&pause=900&color=9FE83A&background=00000000&center=true&vCenter=true&width=620&height=34&lines=Internship%20project%20%E2%80%94%20ML%20on%20student%20performance%20data" alt="Internship project — ML on student performance data" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/muqeetahmaad9/student-performance-internship/stargazers"><img src="https://img.shields.io/github/stars/muqeetahmaad9/student-performance-internship?style=for-the-badge&color=9FE83A&labelColor=0d0221" /></a>
+  <a href="https://github.com/muqeetahmaad9/student-performance-internship/commits"><img src="https://img.shields.io/github/last-commit/muqeetahmaad9/student-performance-internship?style=for-the-badge&color=00D9C0&labelColor=0d0221" /></a>
+  <img src="https://img.shields.io/github/languages/top/muqeetahmaad9/student-performance-internship?style=for-the-badge&color=9FE83A&labelColor=0d0221" />
+</p>
 
 ---
 
-## 📜 Tasks Overview
+### 📖 Overview
 
-### **Task 1: Student Exam Score Prediction using Regression**
-- Predicts student final exam scores using features like study hours, sleep, and participation.
-- Implements:
-  - Linear Regression (single feature & multiple features)
-  - Polynomial Regression (Degree 2 & 3)
-- Evaluation: MSE, RMSE, R² Score
-- Visualization: Pair plots, heatmaps, predictions vs actual
+A four-notebook analysis of student performance data, covering exploration, feature work, modelling and evaluation. Completed as internship coursework.
 
----
+### ✨ Features
 
-### **Task 2: Customer Segmentation**
-- Segments customers based on **annual income** and **spending score**.
-- Implements:
-  - Data preprocessing and scaling
-  - K-Means clustering (finding optimal `k` using Elbow Method & Silhouette Score)
-  - DBSCAN clustering (bonus)
-- Visualization: 2D scatter plots of clusters
-- Analysis: Average spending per cluster
+- Task 1 — data exploration and cleaning
+- Task 2 — feature engineering
+- Task 3 — model training and comparison
+- Task 4 — evaluation and findings
 
----
+### 🧰 Built With
 
-### **Task 4: Movie Recommendation System**
-- Recommends movies using:
-  - **User-based Collaborative Filtering**
-  - **Item-based Collaborative Filtering**
-  - **Matrix Factorization (SVD)**
-- Dataset: MovieLens 100K
-- Evaluation: Precision@K
-- Outputs: Top recommended movies for given users
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,sklearn,pandas" />
+</p>
 
----
+### 🚀 Getting Started
 
-### **Task 3: Traffic Sign Recognition**
-- Classifies traffic signs using:
-  - Custom CNN
-  - Pre-trained MobileNetV2 (transfer learning)
-- Dataset: GTSRB
-- Includes:
-  - Image preprocessing (resizing, normalization)
-  - Data augmentation for improved accuracy
-  - Evaluation: Accuracy, Confusion Matrix
+```bash
+jupyter notebook task1.ipynb
+```
 
----
+### 👤 Author
 
-## ⚙️ Technologies & Libraries Used
-- **Python**
-- **Pandas**, **NumPy**
-- **Matplotlib**, **Seaborn**
-- **Scikit-learn**
-- **TensorFlow / Keras**
-- **OpenCV**
-- **SciPy**
+**Muqeet Ahmad** — AI/ML Engineer · IoT & Embedded Systems Builder
 
----
+<p align="left">
+  <a href="https://www.linkedin.com/in/muqeet--ahmad/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://muqeetahmaad-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-9FE83A?style=for-the-badge&logo=googlechrome&logoColor=0d0221" /></a>
+  <a href="mailto:muqeetahmad155@gmail.com"><img src="https://img.shields.io/badge/Email-00D9C0?style=for-the-badge&logo=gmail&logoColor=0d0221" /></a>
+</p>
 
-
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:00D9C0,100:9FE83A&height=100&section=footer" />
+</p>
